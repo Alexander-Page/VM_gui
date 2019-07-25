@@ -5,6 +5,7 @@ Example of a program pusing to values onto the stack, multiplying them then popi
 ![alt text](VM_gui_mult_ex.png)
 
 List of current instructions:
+
 PSH:	 pushes an integer onto the stack
 
 ADD:	 adds the top two values currently on the stack andsaves the result
